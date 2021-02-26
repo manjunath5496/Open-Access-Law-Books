@@ -176,7 +176,10 @@ Extended Readings on Copyright</a></li>
     
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(81).pdf" style="text-decoration:none;">Advanced Business Law and the Legal Environment</a></li> 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(82).pdf" style="text-decoration:none;">Foundations of Business Law and Legal Environment</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(83).pdf" style="text-decoration:none;">Government Regulation and the Legal Environment of Business</a></li>
     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(84).pdf" style="text-decoration:none;">The Legal and Ethical Environment of Business</a></li>    
     
     
     
