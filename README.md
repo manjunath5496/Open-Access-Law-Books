@@ -164,5 +164,11 @@ Extended Readings on Copyright</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(73).pdf" style="text-decoration:none;">Introduction to Criminal Investigation: Processes, Practices and Thinking</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(74).pdf" style="text-decoration:none;">Intellectual Property: Law and the Information Society: Cases and Materials</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(75).pdf" style="text-decoration:none;">Introduction to Contracts, Sales and Product Liability</a></li>
   
-    </ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(76).pdf" style="text-decoration:none;">Introduction to the Law of Property, Estate Planning and Insurance</a></li> 
+  
+  
+  
+  
+</ul>
