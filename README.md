@@ -167,8 +167,19 @@ Extended Readings on Copyright</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(75).pdf" style="text-decoration:none;">Introduction to Contracts, Sales and Product Liability</a></li>
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(76).pdf" style="text-decoration:none;">Introduction to the Law of Property, Estate Planning and Insurance</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(77).pdf" style="text-decoration:none;">Law for Entrepreneurs</a></li> 
   
-  
-  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(78).pdf" style="text-decoration:none;">Law of Commercial Transactions</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(79).pdf" style="text-decoration:none;">Legal Aspects of Corporate Management and Finance</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(80).pdf" style="text-decoration:none;">Legal Aspects of Marketing and Sales</a></li>
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(81).pdf" style="text-decoration:none;">Advanced Business Law and the Legal Environment</a></li> 
+
+    
+    
+    
+    
+    
   
 </ul>
