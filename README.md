@@ -93,68 +93,76 @@ and Death: Women on Trial in Classical Athens</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(39).pdf" style="text-decoration:none;">Protecting the Rights of People with Autism in the Fields of Education and Employment</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(40).pdf" style="text-decoration:none;">Study on the protection of
 research data and recommendations for access and usage</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(41).pdf" style="text-decoration:none;">A Normative Theory for
+Commons-Based Peer Production</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(42).pdf" style="text-decoration:none;">Crown and Sword: Executive power and the use of force by the Australian Defence Force</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(43).pdf" style="text-decoration:none;">Comparative Law in a Changing World: 
+Historical Reflections and Future Visions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(44).pdf" style="text-decoration:none;">a kind of mending: 
+Restorative Justice in the Pacific Islands</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(45).pdf" style="text-decoration:none;">The Law in the Information and
+Risk Society</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(47).pdf" style="text-decoration:none;">Critical
+Perspectives on the Scholarship of Assessment and Learning in Law</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(48).pdf" style="text-decoration:none;">Sponsoring und Doping</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(49).pdf" style="text-decoration:none;">Sustainable Land Use and Rural Development in Southeast Asia: Innovations and Policies for Mountainous Areas</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(50).pdf" style="text-decoration:none;">River Basin Development and Human Rights in Eastern Africa — A Policy Crossroads</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(51).pdf" style="text-decoration:none;">A Lexicon of Medieval Nordic Law</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(52).pdf" style="text-decoration:none;">Introduction to Swiss Law</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(53).pdf" style="text-decoration:none;">The Future of Ocean Governance and Capacity Development</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(54).pdf" style="text-decoration:none;">Migration and Hybrid
+Political Regimes </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(55).pdf" style="text-decoration:none;">Marine Law and Policy for Scientists and Managers</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(56).pdf" style="text-decoration:none;">Law 101: Fundamentals of the Law: New York Law and Federal Law</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(57).pdf" style="text-decoration:none;">Open Judicial Politics</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(58).pdf" style="text-decoration:none;">Open-Source Property: A Free Casebook</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(59).pdf" style="text-decoration:none;">SOU-CCJ230 Introduction to the American Criminal Justice System</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(60).pdf" style="text-decoration:none;">Professional Responsibility:
+An Open-Source Casebook </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(61).pdf" style="text-decoration:none;"> Australian Politics
+and Policy</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(62).pdf" style="text-decoration:none;">The Pay for Success Handbook</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(63).pdf" style="text-decoration:none;">Trademark Law: An Open-Source Casebook</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(64).pdf" style="text-decoration:none;">Business Law I Essentials</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(65).pdf" style="text-decoration:none;">What Color is Your C.F.R.? </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(66).pdf" style="text-decoration:none;">Criminal Law</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(67).pdf" style="text-decoration:none;">
+Extended Readings on Copyright</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(68).pdf" style="text-decoration:none;">Ethics in Law Enforcement</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(69).pdf" style="text-decoration:none;">Law of Wills</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(70).pdf" style="text-decoration:none;">Fundamentals of Business Law</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(71).pdf" style="text-decoration:none;">Global Corruption: Law, Theory and Practice</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(72).pdf" style="text-decoration:none;">The Indigo Book</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(73).pdf" style="text-decoration:none;">Introduction to Criminal Investigation: Processes, Practices and Thinking</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(74).pdf" style="text-decoration:none;">Intellectual Property: Law and the Information Society: Cases and Materials</a></li>
+  
     </ul>
