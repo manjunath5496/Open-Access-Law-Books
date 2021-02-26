@@ -104,7 +104,7 @@ Restorative Justice in the Pacific Islands</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(45).pdf" style="text-decoration:none;">The Law in the Information and
 Risk Society</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(46).pdf" style="text-decoration:none;">Business Law and the Legal Environment</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Law-Books/blob/master/lw(47).pdf" style="text-decoration:none;">Critical
 Perspectives on the Scholarship of Assessment and Learning in Law</a></li>
